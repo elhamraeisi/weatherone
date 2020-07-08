@@ -1,5 +1,7 @@
 # weatherone
 
+![alt text](https://github.com/elhamraeisi/weatherone/blob/master/screenshot.png?raw=true)
+
 ## Project setup
 ```
 npm install
