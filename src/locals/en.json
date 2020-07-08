@@ -1,0 +1,11 @@
+{
+  "search": {
+    "search-city": "Search a city"
+  },
+  "current": {
+    "feels-like": "feels like",
+    "humidity": "humidity",
+    "dew-point": "dew point",
+    "wind": "wind"
+  }
+}

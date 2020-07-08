@@ -1,0 +1,11 @@
+{
+  "search": {
+    "search-city": "Recherche de ville"
+  },
+  "current": {
+    "feels-like": "ressenti",
+    "humidity": "humidité",
+    "dew-point": "point de rosée",
+    "wind": "vent"
+  }
+}
