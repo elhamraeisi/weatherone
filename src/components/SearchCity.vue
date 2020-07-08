@@ -15,7 +15,7 @@
               @placechanged="onPlaceChanged"
             >
               <input
-                class="form-control rounded-pill bg-transparent border-white transparent-bg text-white text-capitalize"
+                class="form-control rounded-pill bg-transparent border-white transparent-bg text-white"
                 type="text"
                 :placeholder="$t('search.search-city')"
               />
